@@ -6,7 +6,6 @@
 # PROCESS-NAME: 3
 # TOTAL: 11
 PROCESS-NAME,com.hktve.viutv
-
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
@@ -24,3 +23,15 @@ DOMAIN-SUFFIX,platform-lookaside.fbsbx.com
 DOMAIN-SUFFIX,bzib.nelreports.net
 DOMAIN-SUFFIX,s-usc1b-nss-2107.firebaseio.com
 DOMAIN-SUFFIX,sb.scorecardresearch.com
+DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
+DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
+DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
+DOMAIN-SUFFIX,pccw-live-cdn-viutv.akamaized.net:
+DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,viu.now.com
+DOMAIN-SUFFIX,viu.tv
+PROCESS-NAME,com.viu.pad
+PROCESS-NAME,com.viu.phone
+PROCESS-NAME,com.vuclip.viu
