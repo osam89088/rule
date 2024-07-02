@@ -35,3 +35,5 @@ DOMAIN-SUFFIX,viu.tv
 PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.viu.phone
 PROCESS-NAME,com.vuclip.viu
+DOMAIN-SUFFIX,s-usc1b-nss-2107.firebaseio.com
+DOMAIN-SUFFIX,firestore.googleapis.com
