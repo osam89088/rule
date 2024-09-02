@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "abema.io",
+        "tv.abema",
+        "akamaized.net",
+        "ameba.jp",
+        "tvbanywhere.com",
+        "abema.tv",
+        "hayabusa.io",
+        "abematv.akamaized.net",
+        "img.tvbaw.com",
+        "edge.api.brightcove.com",
+        "players.brightcove.net",
+        "api.ipify.org"
+      ]
+    }
+  ]
+}
