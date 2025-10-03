@@ -12,11 +12,11 @@ DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,rthklive
-DOMAIN-SUFFIX,hoy.tv
-DOMAIN-SUFFIX,storage.hoy.tv
-DOMAIN-SUFFIX,api2.hoy.tv
-DOMAIN-SUFFIX,epg-file.hoy.tv
-DOMAIN-SUFFIX,display-algoad.hoy.tv
-DOMAIN-SUFFIX,hoytv-live-stream.hoy.tv
-DOMAIN-SUFFIX,d1r44591rc4b13.cloudfront.net
-DOMAIN-SUFFIX,vod.hoy.tv
+# DOMAIN-SUFFIX,hoy.tv
+# DOMAIN-SUFFIX,storage.hoy.tv
+# DOMAIN-SUFFIX,api2.hoy.tv
+# DOMAIN-SUFFIX,epg-file.hoy.tv
+# DOMAIN-SUFFIX,display-algoad.hoy.tv
+# DOMAIN-SUFFIX,hoytv-live-stream.hoy.tv
+# DOMAIN-SUFFIX,d1r44591rc4b13.cloudfront.net
+# DOMAIN-SUFFIX,vod.hoy.tv
