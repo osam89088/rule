@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,hao123.com
 #DOMAIN-SUFFIX,xmrthnode.com
 #DOMAIN-SUFFIX,m78star
 #DOMAIN-SUFFIX,m78.pro
-DOMAIN-SUFFIX,apple-bing.sbs
+#DOMAIN-SUFFIX,apple-bing.sbs
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
