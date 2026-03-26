@@ -1,0 +1,31 @@
+# --香港四大电视台直播 & 点播整合规则 ---
+
+# [TVB / myTV SUPER] 包含点播、直播及鉴权
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,tvb.com.hk
+DOMAIN-SUFFIX,tvbanywhere.com
+DOMAIN-SUFFIX,tvbanywhere.com.hk
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,mytvapi.com
+DOMAIN-SUFFIX,tvbanywhere.com.sg
+DOMAIN-SUFFIX,bigbigchannel.com.hk
+
+# [ViuTV / Now TV] 包含直播流和网页端点播
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,now-tv.com
+DOMAIN-SUFFIX,pccw.com
+DOMAIN-KEYWORD,viutv
+
+# [HOY TV / 有线宽频] 涵盖直播和 App 内容
+DOMAIN-SUFFIX,hoy.tv
+DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,cabletv.com.hk
+
+# [RTHK 香港电台] 网页直播及官方 App
+DOMAIN-SUFFIX,rthk.hk
+DOMAIN-SUFFIX,rthk.org.hk
+
+# --补充：通用流媒体 CDN (防止直播卡顿) ---
+DOMAIN-SUFFIX,akamaized.net
